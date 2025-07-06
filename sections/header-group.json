@@ -40,8 +40,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ClariZen-removebg-preview.png",
-        "logo_max_width": 150,
+        "logo": "shopify://shop_images/WhatsApp_Image_2025-07-06_a_10.12.36_92b06dce.jpg",
+        "logo_max_width": 205,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
         "sidebar_menu": "",
@@ -55,6 +55,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/WhatsApp_Image_2025-07-06_a_10.12.36_92b06dce.jpg",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0

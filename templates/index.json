@@ -76,7 +76,7 @@
         "heading_7zixtd": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Retrouvez votre sourire en toute confiance",
             "heading_tag": "h1"
           }
         }
@@ -90,7 +90,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/10f9dda7-b747-4655-3450-50e6d001b300.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-07-04_a_17.51.16_ac7e778a_ab2b9bf2-d753-4cf9-aa97-ecb3b168a005.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
