@@ -276,12 +276,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description_7hxWeJ": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant_picker_y6j6rn": {
           "type": "variant_picker",
           "settings": {
@@ -325,7 +319,6 @@
         "price_AAaE8X",
         "rating_6HkLiF",
         "separator_DqEUyr",
-        "description_7hxWeJ",
         "variant_picker_y6j6rn",
         "quantity_selector_fjkR3q",
         "buy_buttons_wLKPUC",
@@ -350,6 +343,106 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_6nWLrt": {
+      "type": "tabs",
+      "blocks": {
+        "tab_iA89pq": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p>. Confort optimal<br/>Adaptée à la morphologie buccale pour un port quotidien sans gêne.<br/><br/> Matériaux biocompatibles<br/>Sans allergènes, respectueux des gencives et certifiés normes médicales.<br/><br/> Facile à nettoyer<br/>Résiste aux taches et peut être nettoyée en quelques minutes par jour.<br/><br/> Stabilité et maintien<br/>Bonne tenue sans glissement, avec ou sans adhésif.<br/><br/> Finition personnalisée<br/>Ajustement de la teinte et des détails selon le patient (option premium).<br/></p>",
+            "page": ""
+          }
+        },
+        "tab_gPKMGg": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>Recevez votre prothèse directement chez vous, en toute tranquillité.<br/>Nous assurons une livraison fiable, discrète et suivie, partout en [Sur Cotonou].<br/><br/>✅ Expédition sous 24 à 48h ouvrées<br/>✅ Livraison suivie à domicile avec numéro de suivi<br/>✅ Service client disponible jusqu’à réception du colis</p>",
+            "page": ""
+          }
+        },
+        "tab_8ExNFV": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client Disponible 7j/7",
+            "content": "<p>Notre équipe est à votre écoute tous les jours de la semaine, pour vous accompagner avant, pendant et après votre commande.<br/><br/>✅ Réponse rapide par e-mail <br/>✅ Conseils personnalisés sur nos prothèses<br/>✅ Suivi de commande & assistance livraison De 8h à 17h<br/>✅ Engagement confiance & satisfaction client</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_iA89pq",
+        "tab_gPKMGg",
+        "tab_8ExNFV"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "faq_8qNb3J": {
+      "type": "faq",
+      "blocks": {
+        "item_Q4htWn": {
+          "type": "item",
+          "settings": {
+            "title": "La prothèse  est-elle adaptée à mes dents ?",
+            "content": "<p><strong>Oui</strong>, nos prothèses dentaires sont conçues pour s’adapter à un grand nombre de morphologies buccales.</p><ul><li><br/> : la forme a été pensée pour convenir à la plupart des structures dentaires<br/></li><li><br/> : légère flexibilité pour un meilleur confort et maintien<br/></li><li><br/> : pas besoin de moule dentaire complexe pour les modèles standards<br/></li><li><br/> : un guide d’ajustement vous aide à bien positionner la prothèse</li></ul>"
+          }
+        },
+        "item_z4kiwY": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_cm7jJ3": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Q4htWn",
+        "item_z4kiwY",
+        "item_cm7jJ3"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -360,6 +453,8 @@
     "image_with_text_overlay_WyChNk",
     "rich_text_Yq6QHH",
     "video_bWFktp",
-    "featured_product_YEjEzg"
+    "featured_product_YEjEzg",
+    "tabs_6nWLrt",
+    "faq_8qNb3J"
   ]
 }
