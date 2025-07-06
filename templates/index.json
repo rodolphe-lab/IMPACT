@@ -228,23 +228,6 @@
     },
     "video_bWFktp": {
       "type": "video",
-      "blocks": {
-        "play_YCMcdq": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_EzYFqA": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_YCMcdq",
-        "heading_EzYFqA"
-      ],
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -257,6 +240,114 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "featured_product_YEjEzg": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_R3Y7Jh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; font-size: 16px; color: #333;\">\n  <div style=\"color: #FFD700; font-size: 18px; margin-right: 5px;\">\n    ★★★★☆\n  </div>\n  <div>\n    <strong>4.6</strong> / 5 — <span style=\"color: gray;\">110 avis clients</span>\n  </div>\n</div>"
+          }
+        },
+        "vendor_P76hHa": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_rC9ncc": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_Eee6qV": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_AAaE8X": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_6HkLiF": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_DqEUyr": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_7hxWeJ": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_y6j6rn": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_fjkR3q": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_wLKPUC": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_8YAwhY": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_R3Y7Jh",
+        "vendor_P76hHa",
+        "title_rC9ncc",
+        "badges_Eee6qV",
+        "price_AAaE8X",
+        "rating_6HkLiF",
+        "separator_DqEUyr",
+        "description_7hxWeJ",
+        "variant_picker_y6j6rn",
+        "quantity_selector_fjkR3q",
+        "buy_buttons_wLKPUC",
+        "pickup_availability_8YAwhY"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "faux-dents",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -266,6 +357,7 @@
     "impact_text_6FjfBx",
     "image_with_text_overlay_WyChNk",
     "rich_text_Yq6QHH",
-    "video_bWFktp"
+    "video_bWFktp",
+    "featured_product_YEjEzg"
   ]
 }
