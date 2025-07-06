@@ -97,10 +97,115 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "logo_list_tYx3VC": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_yHbKWk": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/WhatsApp_Image_2025-07-06_a_10.43.20_aa3fb01f.jpg",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_k3Pk73": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/WhatsApp_Image_2025-07-06_a_10.43.43_c43d6a8e.jpg",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_AhxtTX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/WhatsApp_Image_2025-07-06_a_10.42.57_dded3bc0.jpg",
+            "logo_width": 200,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_yHbKWk",
+        "logo_k3Pk73",
+        "logo_AhxtTX"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "vu sur:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "impact_text_6FjfBx": {
+      "type": "impact-text",
+      "blocks": {
+        "item_mJchTg": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Pourquoi choisir Trustoni ?",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_mJchTg"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_WyChNk": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-07-06_a_14.34.34_f8e2bd93.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 29
+      }
     }
   },
   "order": [
     "slideshow",
-    "image_with_text_overlay_AKBHmi"
+    "image_with_text_overlay_AKBHmi",
+    "logo_list_tYx3VC",
+    "impact_text_6FjfBx",
+    "image_with_text_overlay_WyChNk"
   ]
 }
