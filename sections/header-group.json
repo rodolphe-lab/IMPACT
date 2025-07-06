@@ -14,15 +14,39 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_GLd7nG": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison OFFERTE dès 50€ d'achat – profitez-en",
+            "url": ""
+          }
+        },
+        "message_hPMDV4": {
+          "type": "message",
+          "settings": {
+            "text": "+ de 1 000 clients satisfaits ⭐⭐⭐⭐⭐",
+            "url": ""
+          }
+        },
+        "message_V8zXQq": {
+          "type": "message",
+          "settings": {
+            "text": "Service client réactif 7J/7",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Stocks limités – Ne manquez pas votre chance",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_GLd7nG",
+        "message_hPMDV4",
+        "message_V8zXQq",
         "message"
       ],
       "settings": {
@@ -42,7 +66,7 @@
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/WhatsApp_Image_2025-07-06_a_10.12.36_92b06dce.jpg",
         "logo_max_width": 200,
-        "logo_mobile_max_width": 120,
+        "logo_mobile_max_width": 130,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
