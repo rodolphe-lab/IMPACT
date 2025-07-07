@@ -412,7 +412,7 @@
           "type": "item",
           "settings": {
             "title": "Que faire si la prothèse ne vous convient pas ?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p></p><p>🔄 <strong>Essayez un ajustement simple</strong><br/><br/>Certaines prothèses peuvent être légèrement <strong>thermoformées</strong> avec de l’eau chaude pour s’adapter parfaitement à votre bouche. Consultez le guide fourni avec votre commande.</p><p><br/><br/></p><p><br/><br/><br/><br/></p><p><br/><br/><br/></p>"
           }
         }
       },

@@ -78,7 +78,7 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image_width": 180,
             "heading_size": "h3",
             "title": "Inscrivez vous pour recevoir nos offres et actualité",
             "content": ""
