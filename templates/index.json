@@ -404,14 +404,14 @@
         "item_z4kiwY": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Comment utiliser votre prothèse dentaire Trustoni ?",
+            "content": "<p>MODE D'UTILISACTION <br/><br/>1. Ramollir l’insert thermique <br/><br/>Fais chauffer de l’eau (environ 70-80°C).<br/><br/>Mets l’insert ou les perles dans l’eau pendant 2 minutes.<br/><br/>Ils deviennent translucides et malléables.<br/><br/>2. Modeler la base<br/><br/>Sors l’insert ramolli de l’eau avec une cuillère.<br/><br/>Insère-le dans le dentier (à l’intérieur).<br/><br/>Place immédiatement le dentier sur tes dents naturelles.<br/><br/>Appuie doucement avec les doigts pour bien épouser la forme de tes dents.<br/><br/>⚠ Attention à ne pas te brûler, et à bien aligner le dentier pour un rendu naturel.<br/><br/>3. Laisser refroidir en bouche<br/><br/>Garde-le en place pendant 1 à 2 minutes, bouche fermée.<br/><br/>Une fois la matière refroidie, elle durcit et prend la forme de ta dentition.<br/><br/><br/>🧼 Entretien quotidien :<br/>Rince à l’eau claire après chaque usage.<br/><br/>Ne pas brosser avec du dentifrice (ça peut abîmer la matière).<br/><br/>Conserver dans une boîte propre et sèche.<br/><br/>❌ Ce qu’il ne faut pas faire :<br/>Ne pas dormir avec.<br/><br/>Ne pas manger avec (sauf si le modèle est prévu pour).<br/><br/>Ne pas utiliser si tu as des douleurs ou une allergie.</p>"
           }
         },
         "item_cm7jJ3": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "Que faire si la prothèse ne vous convient pas ?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         }
@@ -428,8 +428,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -443,6 +443,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_4KU4Vc": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Nos service clientèle sont disponible 7/7 . Temps de réponse moyen 24h",
+        "title": "Une question ?",
+        "content": "<p>N’hésitez pas à nous écrire via le formulaire ci dessous et nous vous répondrons dans les plus bref délais </p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#ed2222",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -455,6 +476,7 @@
     "video_bWFktp",
     "featured_product_YEjEzg",
     "tabs_6nWLrt",
-    "faq_8qNb3J"
+    "faq_8qNb3J",
+    "contact_4KU4Vc"
   ]
 }
