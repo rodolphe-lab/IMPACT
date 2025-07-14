@@ -104,6 +104,7 @@
         "logo_akCEeR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/telechargement.png",
             "logo_width": 120,
             "link": ""
           }
@@ -244,8 +245,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -262,11 +263,11 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2025-07-14_a_17.07.31_532c3689.jpg",
-            "content_max_width": 780,
+            "content_max_width": 1000,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
