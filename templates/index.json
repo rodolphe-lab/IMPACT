@@ -90,7 +90,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/WhatsApp_Image_2025-07-04_a_17.51.16_ac7e778a_ab2b9bf2-d753-4cf9-aa97-ecb3b168a005.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-07-14_a_16.52.45_c9f7b39e.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -101,6 +101,13 @@
     "logo_list_tYx3VC": {
       "type": "logo-list",
       "blocks": {
+        "logo_akCEeR": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_yHbKWk": {
           "type": "logo",
           "settings": {
@@ -127,6 +134,7 @@
         }
       },
       "block_order": [
+        "logo_akCEeR",
         "logo_yHbKWk",
         "logo_k3Pk73",
         "logo_AhxtTX"
@@ -192,7 +200,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/WhatsApp_Image_2025-07-06_a_14.34.34_f8e2bd93.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-07-13_a_18.06.24_e6136af6.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -226,19 +234,67 @@
         "text_color": ""
       }
     },
-    "video_bWFktp": {
-      "type": "video",
-      "name": "Video",
+    "slideshow_ygBhXm": {
+      "type": "slideshow",
+      "blocks": {
+        "image_3UBMjU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-14_a_17.07.31_4547fed9.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_MPeG6h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-14_a_17.07.31_532c3689.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_3UBMjU",
+        "image_MPeG6h"
+      ],
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/WhatsApp Vidéo 2025-07-05 à 17.37.58_8d3a78f4.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "featured_product_YEjEzg": {
@@ -473,7 +529,7 @@
     "impact_text_6FjfBx",
     "image_with_text_overlay_WyChNk",
     "rich_text_Yq6QHH",
-    "video_bWFktp",
+    "slideshow_ygBhXm",
     "featured_product_YEjEzg",
     "tabs_6nWLrt",
     "faq_8qNb3J",
