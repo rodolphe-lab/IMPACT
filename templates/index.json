@@ -235,6 +235,65 @@
         "text_color": ""
       }
     },
+    "multi_column_bV7Gzn": {
+      "type": "multi-column",
+      "blocks": {
+        "item_9fXi7t": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JLLkw8": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jNRhmY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_9fXi7t",
+        "item_JLLkw8",
+        "item_jNRhmY"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_ygBhXm": {
       "type": "slideshow",
       "blocks": {
@@ -292,9 +351,9 @@
         "image_size": "auto",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "autoplay": true,
+        "cycle_speed": 4,
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -530,6 +589,7 @@
     "impact_text_6FjfBx",
     "image_with_text_overlay_WyChNk",
     "rich_text_Yq6QHH",
+    "multi_column_bV7Gzn",
     "slideshow_ygBhXm",
     "featured_product_YEjEzg",
     "tabs_6nWLrt",
