@@ -388,6 +388,12 @@
             "show_empty": false
           }
         },
+        "liquid_HDMC4h": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #fff3cd; color: #856404; border: 1px solid #ffeeba; padding: 10px 15px; border-radius: 5px; font-weight: bold; font-size: 16px; display: inline-block;\">\n  ✅ En stock : <span style=\"color: red;\">4 restants</span>\n</div>"
+          }
+        },
         "separator_DqEUyr": {
           "type": "separator",
           "settings": {}
@@ -400,6 +406,14 @@
             "selector_mode": "block",
             "color_mode": "color",
             "size_chart_page": ""
+          }
+        },
+        "image_wpfddB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-14_174153.png",
+            "alignment": "center",
+            "max_width": 330
           }
         },
         "quantity_selector_fjkR3q": {
@@ -420,12 +434,6 @@
         "pickup_availability_8YAwhY": {
           "type": "pickup_availability",
           "settings": {}
-        },
-        "liquid_HDMC4h": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"background-color: #fff3cd; color: #856404; border: 1px solid #ffeeba; padding: 10px 15px; border-radius: 5px; font-weight: bold; font-size: 16px; display: inline-block;\">\n  ✅ En stock : <span style=\"color: red;\">4 restants</span>\n</div>"
-          }
         }
       },
       "block_order": [
@@ -434,12 +442,13 @@
         "badges_Eee6qV",
         "price_AAaE8X",
         "rating_6HkLiF",
+        "liquid_HDMC4h",
         "separator_DqEUyr",
         "variant_picker_y6j6rn",
+        "image_wpfddB",
         "quantity_selector_fjkR3q",
         "buy_buttons_wLKPUC",
-        "pickup_availability_8YAwhY",
-        "liquid_HDMC4h"
+        "pickup_availability_8YAwhY"
       ],
       "name": "Featured product",
       "settings": {
