@@ -243,7 +243,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "html": "<p style=\"text-align: center\">Write or copy/past<widgetic id=\"687778d7ecb2a1f62a8b456c\" resize=\"fill-width\" width=\"510\" height=\"583\" autoscale=\"on\" adaptive=\"414\"></widgetic><script async=\"\" src=\"https://widgetic.com/sdk/sdk.js\"></script>e HTML code</p>",
+        "html": "<widgetic id=\"6878e53decb2a19c2d8b4570\" resize=\"fill-width\" width=\"510\" height=\"583\" autoscale=\"on\" adaptive=\"414\"></widgetic><script async=\"\" src=\"https://widgetic.com/sdk/sdk.js\"></script>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
