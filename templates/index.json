@@ -91,6 +91,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/WhatsApp_Image_2025-07-14_a_16.52.45_c9f7b39e.jpg",
+        "mobile_image": "shopify://shop_images/WhatsApp_Image_2025-07-17_a_09.00.37_249142e4.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
