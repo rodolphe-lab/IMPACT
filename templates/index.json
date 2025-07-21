@@ -236,17 +236,29 @@
         "text_color": ""
       }
     },
-    "custom_html_ptLVp4": {
-      "type": "custom-html",
-      "name": "Custom HTML",
+    "before_after_image_AaJ7VB": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<widgetic id=\"6878e53decb2a19c2d8b4570\" resize=\"fill-width\" width=\"510\" height=\"583\" autoscale=\"on\" adaptive=\"414\"></widgetic><script async=\"\" src=\"https://widgetic.com/sdk/sdk.js\"></script>",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/WhatsApp_Image_2025-07-17_a_13.54.59_462e9c4a.jpg",
+        "after_image": "shopify://shop_images/WhatsApp_Image_2025-07-17_a_13.54.59_d17a1f2a.jpg",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "featured_product_YEjEzg": {
@@ -490,7 +502,7 @@
     "impact_text_6FjfBx",
     "image_with_text_overlay_WyChNk",
     "rich_text_Yq6QHH",
-    "custom_html_ptLVp4",
+    "before_after_image_AaJ7VB",
     "featured_product_YEjEzg",
     "tabs_6nWLrt",
     "faq_8qNb3J",
