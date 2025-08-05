@@ -312,14 +312,6 @@
             "size_chart_page": ""
           }
         },
-        "image_wpfddB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-14_174153.png",
-            "alignment": "center",
-            "max_width": 330
-          }
-        },
         "quantity_selector_fjkR3q": {
           "type": "quantity_selector",
           "settings": {}
@@ -349,7 +341,6 @@
         "liquid_HDMC4h",
         "separator_DqEUyr",
         "variant_picker_y6j6rn",
-        "image_wpfddB",
         "quantity_selector_fjkR3q",
         "buy_buttons_wLKPUC",
         "pickup_availability_8YAwhY"
@@ -357,7 +348,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "faux-dents",
+        "product": "seomou-glow-mask-l-elegance-naturelle-du-teint-parfait",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -380,7 +371,7 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<p>. Confort optimal<br/>Adaptée à la morphologie buccale pour un port quotidien sans gêne.<br/><br/> Matériaux biocompatibles<br/>Sans allergènes, respectueux des gencives et certifiés normes médicales.<br/><br/> Facile à nettoyer<br/>Résiste aux taches et peut être nettoyée en quelques minutes par jour.<br/><br/> Stabilité et maintien<br/>Bonne tenue sans glissement, avec ou sans adhésif.<br/><br/> Finition personnalisée<br/>Ajustement de la teinte et des détails selon le patient (option premium).<br/></p>",
+            "content": "<p>. <strong>Type de produit</strong> : Masque visage en tissu imbibé de sérum</p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/></p>",
             "page": ""
           }
         },
