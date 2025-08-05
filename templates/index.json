@@ -440,15 +440,23 @@
         "item_cm7jJ3": {
           "type": "item",
           "settings": {
-            "title": "Que faire si la prothèse ne vous convient pas ?",
-            "content": "<p></p><p>🔄 <strong>Essayez un ajustement simple</strong><br/><br/>Certaines prothèses peuvent être légèrement <strong>thermoformées</strong> avec de l’eau chaude pour s’adapter parfaitement à votre bouche. Consultez le guide fourni avec votre commande.</p><p><br/><br/></p><p><br/><br/><br/><br/></p><p><br/><br/><br/></p>"
+            "title": "En combien de temps les résultats sont visibles ?",
+            "content": "<p>Dès la <strong>première utilisation</strong>, la peau paraît plus fraîche et lumineuse.<br/><br/>Des résultats plus profonds apparaissent après quelques jours.</p><p><br/><br/></p><p><br/><br/><br/><br/></p><p><br/><br/><br/></p>"
+          }
+        },
+        "item_pfxGwF": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser le masque avant un maquillage ?",
+            "content": "<p><br/>Absolument ! Il prépare la peau, l’hydrate et donne un effet lisse parfait pour le maquillage.<br/><br/></p>"
           }
         }
       },
       "block_order": [
         "item_Q4htWn",
         "item_z4kiwY",
-        "item_cm7jJ3"
+        "item_cm7jJ3",
+        "item_pfxGwF"
       ],
       "name": "FAQ",
       "settings": {
