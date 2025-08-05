@@ -426,8 +426,8 @@
         "item_Q4htWn": {
           "type": "item",
           "settings": {
-            "title": "La prothèse  est-elle adaptée à mes dents ?",
-            "content": "<p><strong>Oui</strong>, nos prothèses dentaires sont conçues pour s’adapter à un grand nombre de morphologies buccales.</p><ul><li><br/> : la forme a été pensée pour convenir à la plupart des structures dentaires<br/></li><li><br/> : légère flexibilité pour un meilleur confort et maintien<br/></li><li><br/> : pas besoin de moule dentaire complexe pour les modèles standards<br/></li><li><br/> : un guide d’ajustement vous aide à bien positionner la prothèse</li></ul>"
+            "title": "À quelle fréquence puis-je utiliser le masque SEOMOU ?",
+            "content": "<p><br/>Nous recommandons <strong>2 à 3 fois par semaine</strong> pour des résultats optimaux. Il est doux et adapté à un usage régulier.<br/><br/></p>"
           }
         },
         "item_z4kiwY": {
@@ -455,7 +455,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "",
+        "content": "<p>h</p>",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
